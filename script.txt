@@ -1,0 +1,2 @@
+OBIECT masina
+REPETA 5 masina SPUNE "vrum"
